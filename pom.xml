@@ -89,7 +89,7 @@
 				<version>3.2.5</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>AutomatioTalk.xml</suiteXmlFile>
+						<suiteXmlFile>AutomationTalk.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
