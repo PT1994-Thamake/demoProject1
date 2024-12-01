@@ -38,7 +38,11 @@ public class AutomationTalkDemo {
     	@Test
     	public void Test3() {
     		driver.navigate().to("https://www.AutomationTalks.com");
+<<<<<<< HEAD
     		System.out.println("NewTest3 title is" + driver.getTitle());
+=======
+    		System.out.println("title is" + driver.getTitle());
+>>>>>>> e864103d2431c0b5eaa02809dc1bb5c3692f6363
     	}
     	
     	@AfterMethod
