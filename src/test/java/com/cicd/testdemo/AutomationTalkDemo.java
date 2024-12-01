@@ -38,7 +38,7 @@ public class AutomationTalkDemo {
     	@Test
     	public void Test3() {
     		driver.navigate().to("https://www.AutomationTalks.com");
-    		System.out.println("Test3 title is" + driver.getTitle());
+    		System.out.println("NewTest3 title is" + driver.getTitle());
     	}
     	
     	@AfterMethod
