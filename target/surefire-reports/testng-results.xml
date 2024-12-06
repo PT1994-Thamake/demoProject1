@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-30T11:11:12 IST" name="Suite" finished-at="2024-11-30T11:14:24 IST" duration-ms="192846">
+  <suite started-at="2024-12-06T23:45:11 IST" name="Suite" finished-at="2024-12-06T23:48:52 IST" duration-ms="221112">
     <groups>
     </groups>
-    <test started-at="2024-11-30T11:11:12 IST" name="Test" finished-at="2024-11-30T11:14:24 IST" duration-ms="192846">
+    <test started-at="2024-12-06T23:45:11 IST" name="Test" finished-at="2024-12-06T23:48:52 IST" duration-ms="221112">
       <class name="com.cicd.testdemo.AutomationTalkDemo">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@3cebbb30]" started-at="2024-11-30T11:11:12 IST" name="setUp" finished-at="2024-11-30T11:11:18 IST" duration-ms="5990" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@52af26ee]" started-at="2024-12-06T23:45:11 IST" name="setUp" finished-at="2024-12-06T23:45:16 IST" duration-ms="5411" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Test1()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@3cebbb30]" started-at="2024-11-30T11:11:18 IST" name="Test1" finished-at="2024-11-30T11:12:16 IST" duration-ms="58169" status="PASS">
+        <test-method signature="Test1()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@52af26ee]" started-at="2024-12-06T23:45:16 IST" name="Test1" finished-at="2024-12-06T23:46:15 IST" duration-ms="58142" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@3cebbb30]" started-at="2024-11-30T11:12:16 IST" name="quit" finished-at="2024-11-30T11:12:16 IST" duration-ms="256" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@52af26ee]" started-at="2024-12-06T23:46:15 IST" name="quit" finished-at="2024-12-06T23:46:15 IST" duration-ms="450" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@3cebbb30]" started-at="2024-11-30T11:12:16 IST" name="setUp" finished-at="2024-11-30T11:12:20 IST" duration-ms="4241" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@52af26ee]" started-at="2024-12-06T23:46:15 IST" name="setUp" finished-at="2024-12-06T23:46:19 IST" duration-ms="4407" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Test2()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@3cebbb30]" started-at="2024-11-30T11:12:20 IST" name="Test2" finished-at="2024-11-30T11:13:18 IST" duration-ms="58177" status="PASS">
+        <test-method signature="Test2()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@52af26ee]" started-at="2024-12-06T23:46:19 IST" name="Test2" finished-at="2024-12-06T23:47:48 IST" duration-ms="88578" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2 -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@3cebbb30]" started-at="2024-11-30T11:13:18 IST" name="quit" finished-at="2024-11-30T11:13:19 IST" duration-ms="375" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@52af26ee]" started-at="2024-12-06T23:47:48 IST" name="quit" finished-at="2024-12-06T23:47:48 IST" duration-ms="373" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@3cebbb30]" started-at="2024-11-30T11:13:19 IST" name="setUp" finished-at="2024-11-30T11:13:24 IST" duration-ms="4781" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@52af26ee]" started-at="2024-12-06T23:47:48 IST" name="setUp" finished-at="2024-12-06T23:47:53 IST" duration-ms="4540" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Test3()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@3cebbb30]" started-at="2024-11-30T11:13:24 IST" name="Test3" finished-at="2024-11-30T11:14:24 IST" duration-ms="59976" status="PASS">
+        <test-method signature="Test3()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@52af26ee]" started-at="2024-12-06T23:47:53 IST" name="Test3" finished-at="2024-12-06T23:48:52 IST" duration-ms="58846" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test3 -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@3cebbb30]" started-at="2024-11-30T11:14:24 IST" name="quit" finished-at="2024-11-30T11:14:24 IST" duration-ms="792" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.cicd.testdemo.AutomationTalkDemo@52af26ee]" started-at="2024-12-06T23:48:52 IST" name="quit" finished-at="2024-12-06T23:48:52 IST" duration-ms="297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
